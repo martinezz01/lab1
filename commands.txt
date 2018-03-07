@@ -1,0 +1,20 @@
+1. mkdir lab1
+2. git init
+3. notepad l1.txt
+4. git add l1.txt
+5. git commit l1.txt -m "Initial commit"
+6. notepad l1.txt
+7. git commit l1.txt -m "modify l1.txt"
+8. git remote add origin https://github.com/martinezz01/lab1.git
+9. git push --set-upstream origin master
+10. git checkout l1.txt
+11. git branch logging
+12. git checkout logging
+13. git add log.txt
+14. git commit log.txt -m "modify log.txt"
+15. git push --set-upstream origin logging
+16. git merge master logging
+17. git push origin
+18. git branch allcomands
+19. git checkout allcomands
+20. 
