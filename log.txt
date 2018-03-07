@@ -1,0 +1,11 @@
+commit c90efea9c81335c829bc1698eed0ca51a7912399 (HEAD -> logging, origin/master, master)
+Author: martin.mitev@students.finki.ukim.mk <martin.mitev@students.finki.ukim.mk>
+Date:   Wed Mar 7 18:41:00 2018 +0100
+
+    modify l1.txt
+
+commit 1c2e2715be5aceec71e264c4bb0877d1d3b6faa9
+Author: martin.mitev@students.finki.ukim.mk <martin.mitev@students.finki.ukim.mk>
+Date:   Wed Mar 7 18:39:09 2018 +0100
+
+    Initial commit
